@@ -22,3 +22,14 @@ The user would like to.... :
 * python3.6
 * pyperclip
 * pip
+
+#### Cloning
+
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone ```https://github.com/PatriciaAnduru/Password-Generator.git```
+
+* cd Password-Locker
+
+* code . or atom . based on the text editor you have.
+
