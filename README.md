@@ -15,3 +15,10 @@ The user would like to.... :
 * Generate new password for an account that i haven't registered for and store it with the account name.   
 * Delete stored account login details that i do now want anymore.
 * Copy my credentials to the clipboard
+
+## Installation / Setup instruction
+
+#### The application requires the following installations to operate 
+* python3.6
+* pyperclip
+* pip
