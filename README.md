@@ -54,3 +54,18 @@ The user would like to.... :
 |Delete an existing credential that you don't want anymore|Enter ```D```|Enter the account name of the Credentials you want to delete and returns true if the account has been deleted and false if the account doesn't exixt|
 |Exit the application| Enter ```D```| The application exits|
 
+## Technologies Used
+
+* python3.6
+
+## Known Bugs
+* There are no known bugs currently but pull requests are allowed incase you spot a bug
+
+## Contact Information 
+
+If you have any question or contributions, please email me at [andurupatricia@gmail.com]
+
+## License
+* *MIT License:*
+* Copyright (c) 2020 **Patricia Anduru**
+
